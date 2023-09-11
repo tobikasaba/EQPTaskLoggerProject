@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/EQPTaskLoggerProject.iml" filepath="$PROJECT_DIR$/.idea/EQPTaskLoggerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasklogger/tasklogger.iml" filepath="$PROJECT_DIR$/tasklogger/tasklogger.iml" />
     </modules>
   </component>
 </project>
